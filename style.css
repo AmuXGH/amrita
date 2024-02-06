@@ -12,7 +12,7 @@ html, body{
     display:flex;
      width:100%;
      height:100%;
-     background-color: rgb(22, 29, 41);
+/*      background-color: rgb(22, 29, 41); */
 }
 #left{
     position: relative; 
@@ -74,7 +74,7 @@ html, body{
 #right{
     width:60%;
     height: 100%;
-    background-color: fuchsia;
+/*     background-color: fuchsia; */
     /* display: flex;
     flex-direction: column; */
 }
@@ -82,7 +82,7 @@ html, body{
     display: flex;
     height: 50%;
     width: 100%;
-    background-color: chocolate; 
+/*     background-color: chocolate;  */
 }
 #rtleft{
     height: 100%;
